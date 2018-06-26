@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="None">
+        <meta name="author" content="Jon Fazzaro">
+        
+        <link rel="shortcut icon" href="./img/favicon.ico">
+        <title>Fazzaro's notes from Beer City Code 2018</title>
+        <link href="./css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="./css/font-awesome-4.5.0.css" rel="stylesheet">
+        <link href="./css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="./css/highlight.css">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+	
+	<script src="./js/jquery-1.10.2.min.js"></script>
+        <script src="./js/bootstrap-3.0.3.min.js"></script>
+        <script src="./js/highlight.pack.js"></script> 
+    </head>
+
+    <body class="homepage">
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+
+        <!-- Collapsed navigation -->
+        <div class="navbar-header">
+            <a class="navbar-brand" href=".">Fazzaro's notes from Beer City Code 2018</a>
+        </div>
+
+        <!-- Expanded navigation -->
+        <div class="navbar-collapse collapse">
+
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                        <i class="fa fa-search"></i> Search
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+        <div class="container">
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#beer-city-code">Beer City Code</a></li>
+            <li><a href="#keynote-the-post-javascript-apocalypse">Keynote: The Post-JavaScript Apocalypse</a></li>
+            <li><a href="#id-hire-more-women-if-they-would-apply">I'd Hire More Women if They Would Apply!</a></li>
+            <li><a href="#uncovering-the-hidden-strengths-and-expertise-on-your-team">Uncovering the Hidden Strengths and Expertise on Your Team</a></li>
+            <li><a href="#give-feedback-fearlessly">Give Feedback Fearlessly</a></li>
+            <li><a href="#becoming-an-effective-mentor">Becoming an Effective Mentor</a></li>
+            <li><a href="#antifragile-teams">Antifragile Teams</a></li>
+            <li><a href="#what-ive-learned-interviewing-more-than-200-people-face-to-face">What I've learned interviewing more than 200 people face to face</a></li>
+            <li><a href="#urban-legends-what-you-code-makes-you-who-you-are">Urban Legends: What You Code Makes You Who You Are</a></li>
+    </ul>
+</div></div>
+                <div class="col-md-9" role="main">
+
+<h1 id="beer-city-code">Beer City Code</h1>
+<p><em>June 23, 2018</em></p>
+<h2 id="keynote-the-post-javascript-apocalypse">Keynote: The Post-JavaScript Apocalypse</h2>
+<p>with <a href="https://www.crockford.com/">Douglas Crockford</a></p>
+<p><img alt="" src="https://pbs.twimg.com/media/DgYUOB1WsAAD7e9.jpg" /></p>
+<h3 id="clutter-in-javascript">Clutter in JavaScript</h3>
+<p><strong>Konmari</strong><br />
+When decluttering, gather your things.<br />
+For each thing, hold it and ask yourself, "does this spark joy?"<br />
+If not, say "Thank you for your service", and discard it.</p>
+<p><em>in JavaScript</em><br />
+<code>var</code> &lt; <code>let</code> &lt; <code>const</code><br />
+<code>'</code> &lt; <code>"</code><br />
+<code>null</code> &lt; <code>undefined</code>  </p>
+<p><em>in general</em><br />
+tabs &lt; spaces<br />
+<a href="https://en.wikipedia.org/wiki/Tony_Hoare#Apologies_and_retractions">NULL</a> &lt; an immutable, empty object</p>
+<h3 id="pure-functional-programming">Pure functional programming</h3>
+<p>If our code never has side-effects and is 100% functionally pure, we will not only eliminate disk and network access, but also user interaction and any value provided by the software whatsoever.</p>
+<blockquote>
+<p>The Universe is mutating. Use purity when you can.</p>
+</blockquote>
+<p><a href="http://dec64.com">DEC64</a><br />
+A better number type that is "intended to be the only number type in the next generation of application programming languages", and does not encounter the issues we currently have when working with floating point numbers.</p>
+<h3 id="reserved-words">Reserved words</h3>
+<p>Having a word in a language that no programmer can use as a name is a restriction based on the constraints of the 1950's. </p>
+<p>Instead, the language tools should be smart enough to understand whether the word is being used as a name or a keyword. This would enable freer naming in code while also allowing language developers to implement new language features without fear of breaking existing code.</p>
+<h3 id="qa">Q&amp;A</h3>
+<blockquote>
+<p>I don't have an answer to that. I'm sorry.</p>
+</blockquote>
+<p>(In response to a question he either didn't have anything to say about, didn't know about, or didn't want to spend time on.)</p>
+<p>Code font used in presentation (and in his editor): <a href="http://programma.us/">Programma</a>.</p>
+<p>Correct pronounciation of JSON: <em>zhah-SOHN</em>.</p>
+<p>Web Assembly is less open than JavaScript, and in terms of performance, tunes the part of the system that does not need to be tuned.</p>
+<p>He has eliminated the use of the <code>this</code> keyword from his JavaScript because of its unreliability. (Me too)  </p>
+<p>On attempts to make js more Object-Oriented:</p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">“People who use classes in JavaScript will go to their graves never knowing how miserable they were.” ~ Douglas Crockford, just now at <a href="https://twitter.com/hashtag/BeerCityCode?src=hash&amp;ref_src=twsrc%5Etfw">#BeerCityCode</a></p>&mdash; Fazzaro (@jonfazzaro) <a href="https://twitter.com/jonfazzaro/status/1010522090678702083?ref_src=twsrc%5Etfw">June 23, 2018</a></blockquote>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h2 id="id-hire-more-women-if-they-would-apply">I'd Hire More Women if They Would Apply!</h2>
+<p>with <a href="https://twitter.com/rabergman">Ronda Bergman</a></p>
+<h3 id="diversity">Diversity</h3>
+<p>Not just because diversity--diversity in teams leads to their being more robust, better solutions to problems, and lower turnover.</p>
+<p>Speaking of turnover, <strong>replacing an employee costs up to 213% of their base salary</strong>.</p>
+<p>So, greater diversity on a team leads to more profit.</p>
+<p>Companies that are not diverse typically don't have a sexism problem. Not explicitly, at least. The problem is that women tend not to even apply for their jobs because of the way the company presents them, and itself.</p>
+<h3 id="better-job-postings">Better job postings</h3>
+<h4 id="dont">DON'T</h4>
+<p>Aggressive, dominant wording<br />
+Rockstar/Ninja/Guru<br />
+Bro-culture (foosball tournament listed as a perk)
+Gender-specific words ("our guys", "craftsman")</p>
+<h4 id="do">DO</h4>
+<p>Gender-neutral words<br />
+Promote real perks (work-life balance, paternity leave)</p>
+<h3 id="better-hiring">Better hiring</h3>
+<p>Get rid of "culture fit" interviews. Think instead in terms of a "culture add".</p>
+<p>Track your applicants through the hiring funnel. Where are the non-white-male folks falling off?</p>
+<h3 id="resources">Resources</h3>
+<p><a href="http://gender-decoder.katmatfield.com/">Gender Decoder</a><br />
+<a href="https://textio.com/">textio</a>  </p>
+<p>NPM's <a href="https://twitter.com/npm_hiring">job postings</a> and <a href="https://www.npmjs.com/jobs">culture broadcasting</a> are good examples of all this in action.  </p>
+<h2 id="uncovering-the-hidden-strengths-and-expertise-on-your-team">Uncovering the Hidden Strengths and Expertise on Your Team</h2>
+<p>with <a href="https://www.linkedin.com/in/brianna-yael/">Brianna Marshall</a> and <a href="https://www.linkedin.com/in/kelseyperdue/">Kelsey Perdue</a></p>
+<h3 id="optimal-teams">Optimal Teams</h3>
+<p>An <strong>optimal team</strong> is a group of <em>happy people</em> who are responsible for an <em>amazing product</em>.</p>
+<p>Optimal teams have four characteristics emphasized.  </p>
+<ol>
+<li>
+<p><strong>Asset-focus</strong> <br />
+They spend time <em>strengthening their strengths</em> (over remediating their weaknesses).</p>
+</li>
+<li>
+<p><strong>Psychological Safety</strong><br />
+If they are afraid to fail, they won't try anything new.<br />
+More emphasis on communication than productivity<br />
+Rely on trust and respect, rather than on specific practices<br />
+See Google's <a href="https://rework.withgoogle.com/print/guides/5721312655835136/">Project Aristotle</a>  </p>
+</li>
+<li>
+<p><strong>Diversity</strong><br />
+In age, race, ethnicity, etc. BUT ALSO across work style, first language, socioeconomic background, etc. (see <a href="http://www.loden.com/Web_Stuff/Dimensions.html">Loden's Wheel</a>)  </p>
+<p>There are three levels of diversity.</p>
+<ol>
+<li><strong>Compositional</strong>. There are diverse people on the team.</li>
+<li><strong>Interactional</strong>. The team actively engages in positive interaction and perspective sharing across diverse backgrounds</li>
+<li><strong>Structural</strong>. Diversity is necessary to the team's work, and cannot be reversed.</li>
+</ol>
+</li>
+<li>
+<p><strong>Inclusivity</strong><br />
+Diversity in the team/org is not simply tolerated, it is actively encouraged and promoted.</p>
+</li>
+</ol>
+<h3 id="covering">Covering</h3>
+<p>A person is <strong>covering</strong> when they are hiding an aspect of their personal lives (religion, sexual orientation, disability, hobby, etc.) from their coworkers. This tends to decrease the person's sense of opportunity from and commitment to the team's work.</p>
+<p>Bring your whole selves to work, to the team. This doesn't mean interfering in the work of the team by espousing your radical political opinions so much as it means stop spending energy/cycles on <em>concealing</em> them and keeping them from influencing your choices. They may be valuable in terms of your unique creative contribution.</p>
+<h3 id="cultural-intelligence">Cultural Intelligence</h3>
+<p>How well your organization relates and works effectively across cultures. Analogous to Emotional Intelligence.</p>
+<p>You may have a conversation with people who feel that "we're fine" with the as-is diversity (or lack thereof) in the company. And they may be right--you're <em>fine</em>. But con'tsider the <strong>opportunity cost</strong>: how much better/happier/more competitive could you be with more?</p>
+<h2 id="give-feedback-fearlessly">Give Feedback Fearlessly</h2>
+<p>with <a href="https://twitter.com/aishablake">Aisha Blake</a></p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Giving feedback using the oft-recommended shit sandwich (compliment, criticism, compliment) format just dilutes/discounts the message. ~ <a href="https://twitter.com/AishaBlake?ref_src=twsrc%5Etfw">@AishaBlake</a> <a href="https://twitter.com/hashtag/beercitycode?src=hash&amp;ref_src=twsrc%5Etfw">#beercitycode</a></p>&mdash; Fazzaro (@jonfazzaro) <a href="https://twitter.com/jonfazzaro/status/1010583623882498050?ref_src=twsrc%5Etfw">June 23, 2018</a></blockquote>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h3 id="when-giving-feedback-to-a-coworker-or-any-other-human-being">When giving feedback to a coworker (or any other human being)</h3>
+<ol>
+<li><strong>Be specific</strong>. Make sure what you say is focused and actionable.</li>
+<li><strong>Deliver proactively</strong>. Don't wait until the problem is too big to solve. But also, wait for a pattern instead of jumping on someone who maybe just had a bad day.</li>
+<li><strong>Take a breath</strong>. Wait until you're not angry.</li>
+<li><strong>Check your bias</strong>. Everyone has a unique perception and lived experience. Take this into account between you and the person you're dealing with.<br />
+    State the facts, then describe the result from your perspective.<br />
+    "When you (did the thing), that made me (feel bad)".</li>
+<li><strong>Invite discussion</strong>. Listen more than you speak, it may clear things up drastically.</li>
+</ol>
+<p><strong>Further reading</strong><br />
+<a href="https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second-ebook/dp/B005K0AYH4/">Crucial Conversations</a> <br />
+<a href="https://www.amazon.com/Radical-Candor-What-Want-Saying/dp/1509845364/">Radical Candor</a>  </p>
+<h2 id="becoming-an-effective-mentor">Becoming an Effective Mentor</h2>
+<p>with <a href="https://twitter.com/oliravi">Olivia Liddell</a></p>
+<p>The word mentor comes from the Odyssey, in which Mentor was a character.</p>
+<blockquote>
+<p>In his old age Mentor was a friend of Odysseus who placed Mentor and Odysseus' foster-brother Eumaeus in charge of his son Telemachus, and of Odysseus' palace, when Odysseus left for the Trojan War.</p>
+</blockquote>
+<h3 id="what-is-my-unique-value-as-a-mentor">What is my unique value as a mentor?</h3>
+<ol>
+<li>Pick five people you know. Have them complete the following sentence in relation to you.<br />
+"I am at my best when..."</li>
+<li>Find the pattern in their responses</li>
+<li>Use the pattern to compose a self-portrait of you as a mentor</li>
+</ol>
+<p>What did you struggle with at the start of your career?<br />
+What would you do differently if you had to do it again?  </p>
+<h3 id="formal-vs-informal-mentoring">Formal vs. Informal Mentoring</h3>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Let the mentee drive things in a mentoring relationship, whether formal or informal. ~ <a href="https://twitter.com/oliravi?ref_src=twsrc%5Etfw">@oliravi</a> <a href="https://twitter.com/hashtag/beercitycode?src=hash&amp;ref_src=twsrc%5Etfw">#beercitycode</a></p>&mdash; Fazzaro (@jonfazzaro) <a href="https://twitter.com/jonfazzaro/status/1010598156436934656?ref_src=twsrc%5Etfw">June 23, 2018</a></blockquote>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h4 id="informal">Informal</h4>
+<p>Mentor/mentee self-select one another<br />
+The relationship is casual, not measured<br />
+To begin, seek out and connect<br />
+Don't force it<br />
+Be approachable  </p>
+<p>Hold an internal <a href="https://en.wikipedia.org/wiki/Speed_networking">speed-networking</a> event to foster informal mentorships.</p>
+<h4 id="formal">Formal</h4>
+<p>Established/assigned "on-paper"<br />
+Goals are set, tracked, and measured  </p>
+<h3 id="backward-design">Backward Design</h3>
+<ol>
+<li>Identify desired outcomes</li>
+<li>Determine acceptable evidence </li>
+<li>Plan learning experiences and instruction</li>
+</ol>
+<p>(That sure sounds like <em>User Story</em>, <em>Acceptance Criteria</em>, and <em>Architecture</em>)</p>
+<h3 id="listen">Listen</h3>
+<p>Two ears, one mouth.</p>
+<h4 id="give-feedback">Give feedback</h4>
+<p>Active listening<br />
+Paraphrasing<br />
+Asking clarifying questions
+Be mindful of body language and presence<br />
+Consider the other person's perspective<br />
+Be specific and direct<br />
+Make suggestions and explain the "why"</p>
+<h3 id="write">Write</h3>
+<p>to clarify the words you use when you speak.</p>
+<p><em>What are you afraid of as a mentor?</em></p>
+<h2 id="antifragile-teams">Antifragile Teams</h2>
+<p>with <a href="https://twitter.com/mkecharlie">Charlie Sweet</a></p>
+<h3 id="antifragility">Antifragility</h3>
+<p>What is the opposite of "fragile"? Not robust/durable--those things only resist damage when stressed. </p>
+<p>If something is the opposite of "fragile", it gets <em>stronger</em> under stress. <strong>Antifragile</strong>.</p>
+<p><strong>Eustress</strong>, the good kind of stress.<br />
+Moderate, not extreme.<br />
+Periodic, not chronic.<br />
+Like good exercise.</p>
+<h4 id="volatility">Volatility</h4>
+<p>The restaurant industry is volatile. It's a difficult business to run. Restaurants are closing (and new ones are opening) all the time. The upshot: there's always somewhere to go to lunch.</p>
+<p>The banking industry is not volatile. It's highly regulated, and has the appearance of stability. The upshot: when something goes wrong, it goes very wrong, and the effects <a href="https://en.wikipedia.org/wiki/Great_Recession">ripple through the whole economy</a>.</p>
+<h4 id="more-examples">More examples</h4>
+<p>Martin Luther King, Jr.'s 1963 "I have a dream" speech was improvised. He was faltering in delivering his prepared remarks, but when Mahalia Jackson prompted him from the crowd to "<a href="https://www.nytimes.com/2013/08/28/opinion/mahalia-jackson-and-kings-rhetorical-improvisation.html">Tell them about the dream, Martin!</a>", the words that everyone remembers came flooding in. </p>
+<p>Netflix's <a href="https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey">Chaos Monkey</a>, of course.</p>
+<p><a href="https://www.agilealliance.org/resources/experience-reports/dynamic-reteaming-how-we-thrive-by-rebuilding-teams/">Dynamic Reteaming</a></p>
+<h4 id="procrustean-bed">Procrustean Bed</h4>
+<blockquote>
+<p>A Procrustean bed is an arbitrary standard to which exact conformity is forced. Named for <a href="https://en.wikipedia.org/wiki/Procrustes#Cultural_references">Procrustes</a>, the bandit from Greek mythology who stretched or amputated the limbs of travelers to make them conform to the length of his bed.</p>
+</blockquote>
+<h3 id="teams">Teams</h3>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Most of the groups we call “teams” are probably better described as “working groups”. <a href="https://twitter.com/mkeCharlie?ref_src=twsrc%5Etfw">@mkeCharlie</a> <a href="https://twitter.com/hashtag/antifragile?src=hash&amp;ref_src=twsrc%5Etfw">#antifragile</a> <a href="https://twitter.com/hashtag/beercitycode?src=hash&amp;ref_src=twsrc%5Etfw">#beercitycode</a></p>&mdash; Fazzaro (@jonfazzaro) <a href="https://twitter.com/jonfazzaro/status/1010620838389997570?ref_src=twsrc%5Etfw">June 23, 2018</a></blockquote>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>A <strong>working group</strong> is a collection of <em>independent</em> individuals applying effort to the same work.</p>
+<p>A <strong>team</strong> is an <em>interdependent</em>, interactive group who's value is greater than the sum of its parts.</p>
+<p>If you want to build an actual team  </p>
+<p>DON'T use <strong>the 5U method</strong> of building a team: "Okay, you, you, you, you, and you! You're a team."</p>
+<p>DO define <strong>who is on the team</strong> and <strong>who is not on the team</strong> explicitly. Set clear expectations and drawing clear boundaries, these constraints free both parties to do better work and collaborate more effectively.</p>
+<p><a href="https://rework.withgoogle.com/print/guides/5721312655835136/">Psychological Safety</a> is the most important prerequisite to a great team.</p>
+<h4 id="amy-edmonsons-questions"><a href="https://g.co/kgs/k5yRbD">Amy Edmonson</a>'s Questions</h4>
+<p>For identifying whether your team is psychologically safe.</p>
+<ol>
+<li>If you make a mistake on this team, will it is be held against you?  </li>
+<li>Are members of this team able to bring up problems and tough issues?  </li>
+<li>Do people on this team sometimes reject others for being different?  </li>
+<li>Is it safe to take risk on this team?  </li>
+<li>Is it difficult to ask other members of this team for help?  </li>
+<li>Would anyone on the team deliberately act in a way that undermines efforts?  </li>
+<li>Working with members of this team, are unique skills and talents are valued and utilized? </li>
+</ol>
+<p>(Maybe we should use these in a retrospective?)</p>
+<p>BTW: A <strong>knowledge worker</strong> is a person who knows how to do their job better than their manager does.</p>
+<h3 id="antifragile-teams_1">Antifragile Teams</h3>
+<h4 id="via-negativa">Via Negativa</h4>
+<blockquote>
+<p>a way of describing something by saying what it is not, especially denying that any finite concept of attribute can be identified with or used of God or ultimate reality.</p>
+</blockquote>
+<p>So, what can we STOP doing that will make our team more Antifragile? </p>
+<ul>
+<li>Premature over-standardiztion</li>
+<li>Metrics for managers (they're for the team!)</li>
+<li>Having a separate support development team <ul>
+<li>deprives the support devs of working on the new hotness</li>
+<li>denies the tiger team exposure to the results of their actions</li>
+</ul>
+</li>
+<li>Long-lived teams</li>
+</ul>
+<p>And what can we START doing?</p>
+<ul>
+<li>The job of an Agile Coach is to grow the team by keeping them in eustress</li>
+<li>Embrace volatility, rather than avoiding it</li>
+<li>Establish psychological safety</li>
+<li>Push "<a href="https://en.wikipedia.org/wiki/Power_to_the_edge_(management_technique)">power to the edges</a>"--establish the goal and direction, but defer decisions down to the team.</li>
+</ul>
+<p><strong>Further reading</strong><br />
+<a href="https://www.amazon.com/dp/B0083DJWGO/">Antifragile</a><br />
+<a href="https://www.amazon.com/dp/B00WDDOS7I/">The Wisdom of Teams</a></p>
+<p><strong>Performance note</strong>. Charlie frequently <em>turned off the slides</em> while talking. This was an excellent use of negative space during his talk. It removed the subtle distraction of an irrelevant slide when he was speaking about something that he did not necessarily have a visual for. It was super-effective.</p>
+<h2 id="what-ive-learned-interviewing-more-than-200-people-face-to-face">What I've learned interviewing more than 200 people face to face</h2>
+<p>with <a href="https://twitter.com/stahnma">Michael Stahnke</a></p>
+<p>When deciding on a candidate, ask: "If you only got to hire one person this year, would this person be it?"</p>
+<p>Make a <strong>Scorecard</strong> for the job.<br />
+1. Define success for the role in terms of outcomes.<br />
+2. Write the job description based on that.  </p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Diversity and inclusion begin at the hiring pipeline, in the wording of the job description. ~ Michael Stahnke <a href="https://twitter.com/hashtag/BeerCityCode?src=hash&amp;ref_src=twsrc%5Etfw">#BeerCityCode</a></p>&mdash; Fazzaro (@jonfazzaro) <a href="https://twitter.com/jonfazzaro/status/1010621314250498049?ref_src=twsrc%5Etfw">June 23, 2018</a></blockquote>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>Make sure that the interview panel isn't ALL WHITE DUDES. Observe how the candidate treats/relates to the interviewers who are female/non-white/etc.</p>
+<p>Scrap the "culture" interview--that's how you find a friend, not fill a job.</p>
+<p><strong>Interview questions</strong><br />
+"Tell me about a time you pushed back on management."<br />
+"Tell me about something you did that you are really proud of."</p>
+<p>After the interview, with you fellow interviewers:  </p>
+<ul>
+<li>Have a gladiator-style thumbs-up/down vote.  </li>
+<li>Retrospect on the interview process.  </li>
+<li>
+<p><strong>Put your evaluation of the candidate in writing</strong>. This is good for two reasons:  </p>
+<ol>
+<li>Writing makes you and your team think through what otherwise might be a flip/emotional/gut decision  </li>
+<li>Having your reasoning in writing is good legal protection in case a rejected applicant attempts litigation</li>
+</ol>
+</li>
+</ul>
+<p><strong>Applicant tracking</strong><br />
+<a href="https://www.jobscore.com/">Jobscore</a><br />
+<a href="http://www.greenhouse.io/">Greenhouse</a>  </p>
+<p><strong>Further reading</strong><br />
+<a href="https://www.amazon.com/dp/B001EL6RWY/">Who</a></p>
+<h2 id="urban-legends-what-you-code-makes-you-who-you-are">Urban Legends: What You Code Makes You Who You Are</h2>
+<p>with <a href="https://twitter.com/aspleenic">PJ Hagerty</a></p>
+<p>Our developer communities are too siloed. We should not have <em>Python</em>, <em>.NET</em>, or <em>JavaScript</em> meetups--we should have <em>Tech</em> meetups. <em>Developer</em> meetups.</p>
+<p>Cross-pollination over specialization. Seeking diversity in teams, not the next <em>Rockstar</em> <em>Ninja</em> <em>Guru</em> <em>Wizard</em>.</p>
+<p><strong>DevRel (Developer Relations)</strong>. A team that coordinates cross-functional communication between developers and other non-technical teams. Either internal or consultative. See <a href="http://www.devrelate.io/">DevRelate</a>.</p></div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>var base_url = '.';</script>
+        <script data-main="./mkdocs/js/search.js" src="./mkdocs/js/require.js"></script>
+        <script src="./js/base.js"></script><div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form role="form">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
+
+<!--
+MkDocs version : 0.16.3
+Build Date UTC : 2018-06-26 15:06:18
+-->
