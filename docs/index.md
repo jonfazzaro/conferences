@@ -43,7 +43,7 @@ Instead, the language tools should be smart enough to understand whether the wor
 
 Code font used in presentation (and in his editor): [Programma](http://programma.us/).
 
-Correct pronounciation of JSON: *zhah-SOHN*.
+Correct pronunciation of JSON: *zhah-SOHN*.
 
 Web Assembly is less open than JavaScript, and in terms of performance, tunes the part of the system that does not need to be tuned.
 
@@ -127,7 +127,7 @@ Bring your whole selves to work, to the team. This doesn't mean interfering in t
 ### Cultural Intelligence
 How well your organization relates and works effectively across cultures. Analogous to Emotional Intelligence.
 
-You may have a conversation with people who feel that "we're fine" with the as-is diversity (or lack thereof) in the company. And they may be right--you're *fine*. But con'tsider the **opportunity cost**: how much better/happier/more competitive could you be with more?
+You may have a conversation with people who feel that "we're fine" with the as-is diversity (or lack thereof) in the company. And they may be right--you're *fine*. But consider the **opportunity cost**: how much better/happier/more competitive could you be with more?
 
 ## Give Feedback Fearlessly
 with [Aisha Blake](https://twitter.com/aishablake)
@@ -273,7 +273,7 @@ BTW: A **knowledge worker** is a person who knows how to do their job better tha
 
 So, what can we STOP doing that will make our team more Antifragile? 
 
-- Premature over-standardiztion
+- Premature over-standardization
 - Metrics for managers (they're for the team!)
 - Having a separate support development team 
 	- deprives the support devs of working on the new hotness
