@@ -254,7 +254,7 @@ DO define **who is on the team** and **who is not on the team** explicitly. Set 
 #### [Amy Edmonson](https://g.co/kgs/k5yRbD)'s Questions
 For identifying whether your team is psychologically safe.
 
-1. If you make a mistake on this team, will it is be held against you?  
+1. If you make a mistake on this team, will it be held against you?  
 1. Are members of this team able to bring up problems and tough issues?  
 1. Do people on this team sometimes reject others for being different?  
 1. Is it safe to take risk on this team?  
@@ -268,7 +268,7 @@ BTW: A **knowledge worker** is a person who knows how to do their job better tha
 
 ### Antifragile Teams
 
-#### Via Negativa
+#### *Via Negativa*
 > a way of describing something by saying what it is not, especially denying that any finite concept of attribute can be identified with or used of God or ultimate reality.
 
 So, what can we STOP doing that will make our team more Antifragile? 
