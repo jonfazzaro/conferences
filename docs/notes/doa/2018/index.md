@@ -82,8 +82,8 @@ To discourage team reorganization and splitting people across multiple projects,
 
 (more detail from slides pending)
 
-### Further Reading  
-[The First 90 Days](https://www.amazon.com/First-Days-Updated-Expanded-Strategies-ebook/dp/B00B6U63ZE) by Michael Watkins
+**Further Reading**  
+[The First 90 Days](https://www.amazon.com/First-Days-Updated-Expanded-Strategies-ebook/dp/B00B6U63ZE)
 
 
 # Keep up Without Burning Out
@@ -97,9 +97,8 @@ with [Ken Baum](https://www.linkedin.com/in/kennybaum)
 
 **Attempt solutions** before learning the "correct" answer.
 
-### Further Reading  
-[How to Read a Book](https://smile.amazon.com/How-Read-Book-Touchstone-ebook/dp/B004PYDAPE/) by Mortimer J. Adler
-
+**Further Reading**  
+[How to Read a Book](https://smile.amazon.com/How-Read-Book-Touchstone-ebook/dp/B004PYDAPE/)
 
 
 ## Purposeful Personal Branding
@@ -115,9 +114,9 @@ When you get a **LinkedIn** request from someone you don't know, ask! "Thanks fo
 
 **Offline interaction** is key to building and maintaining your brand--help people!
 
-### Further Reading
+**Further Reading**  
+[The Speed of Trust](https://smile.amazon.com/SPEED-Trust-Thing-Changes-Everything-ebook/dp/B000MGATWG/)
 
-[The Speed of Trust](https://smile.amazon.com/SPEED-Trust-Thing-Changes-Everything-ebook/dp/B000MGATWG/) by Steven Covey
 
 ## Agile for Remote Teams
 with [Michael Dowden](https://twitter.com/mrdowden)  
@@ -202,5 +201,3 @@ Create space to interact
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Do what you can to rid your organization of the sentiment that "failure is not an option".
-
-
