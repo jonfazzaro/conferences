@@ -1,6 +1,6 @@
 # Day of Agile
-July 27th, 2018  
-Cincinnati, OH
+*July 27th, 2018*  
+*Cincinnati, OH*
 
 Phil announced that the conference would rebrand next year as **Cincy.Deliver**, and expand from one day to two.
 

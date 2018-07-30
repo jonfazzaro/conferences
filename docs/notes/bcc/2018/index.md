@@ -1,5 +1,6 @@
 # Beer City Code 
 *June 23, 2018*
+*Grand Rapids, MI*
 
 ## Keynote: The Post-JavaScript Apocalypse 
 with [Douglas Crockford](https://www.crockford.com/)
