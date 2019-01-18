@@ -1,5 +1,4 @@
-# CodeMash 2019
-
+# CodeMash
 *January 10-11, 2019*  
 *Sandusky, OH*
 
@@ -93,7 +92,7 @@ Users lie about what they want. For better guidance/intel, watch what they **do*
 
 There is no testing phase.
 
-![](pyramid.jpg)
+![](img/pyramid.jpg)
 
 Cheezy refers to smaller (non-end-to-end) integration tests as unit tests, to keep the pyramid simpler.
 
