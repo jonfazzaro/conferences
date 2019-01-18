@@ -3,7 +3,6 @@
 *Sandusky, OH*
 
 ## Leadership Guide for the Reluctant Leader
-
 with [David Neal](https://twitter.com/reverentgeek)
 
 "Punching Bears" = doing really difficult things. Have you punched any bears today?
@@ -51,7 +50,6 @@ We commonly pay great tributes to our co-workers when they quit or retire. Why w
 [Strengths Finder (Rath)](http://www.tomrath.org/book/strengthsfinder/)  
 
 ## 12 skills every rookie programmer should have, but often don't
-
 with [Andy Lester](https://twitter.com/petdance)
 
 Experienced software developers are often surprised and frustrated at what newer developers don't know. 
@@ -81,7 +79,6 @@ Experienced software developers are often surprised and frustrated at what newer
 [Pragmatic Programmer (Hunt, Thomas)](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X/)
 
 ## Continuous Delivery requires radical changes for testers
-
 with [Jeff "Cheezy" Morgan](https://twitter.com/chzy)
 
 **Continuous Delivery** in this context is the practice of deploying software to production with every source control commit.
