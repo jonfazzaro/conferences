@@ -93,7 +93,7 @@ There is no testing phase.
 
 Cheezy refers to smaller (non-end-to-end) integration tests as unit tests, to keep the pyramid simpler.
 
-**Fewer User Test, more Unit Tests**. Whenever possible, test using a Unit Test. The team should do what it can to convert existing User Tests into Unit Tests.
+**Fewer User Tests, more Unit Tests**. Whenever possible, test something using a Unit Test. The team should do what it can to convert existing User Tests into Unit Tests.
 
 ### Case study
 
@@ -156,8 +156,8 @@ An effective pipeline should run in under 30 minutes.
 
 **Testers must become more code-y, coders more test-y**, until the two become *indistinguishable* to anyone not on the team.
 
-# THERE IS NO AUTOMATION TEAM. 
-"This is the worst idea."
+**THERE IS NO AUTOMATION TEAM**.   
+This is the worst idea.
 
 **Further Reading**  
 [Explore It (Henderson)](https://www.amazon.com/Explore-Increase-Confidence-Exploratory-Testing-ebook-dp-B00I8W50T8/dp/B00I8W50T8/)  
