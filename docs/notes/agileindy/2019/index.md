@@ -5,7 +5,7 @@ Indianapolis
 ## Morning Keynote: Business Agility, what else?
 with [Arie Van Bennekum](https://twitter.com/arievanbennekum)
 
-![](snowbird.jpg)
+![](img/snowbird.jpg)
 
 On the cost of delay: "If you're late? Don't worry, your competition will be on time."
 
@@ -112,14 +112,14 @@ An agile bully might actually just have been excited to share an idea, not inten
 **Radical Hero**. The persona that cheers you on, who counteracts your imposter syndrome. Strengthen this part of you by *being a Radical Hero for other people*!
 
 #### Ladder of Inference
-![](inferenceladder.jpg)
+![](img/inferenceladder.jpg)
 
 In response to a disagreement, ask what information the other person has that you don't.
 
 **5:1**. Ask for feedback 5x more often than you offer suggestions.
 
 #### Gottman's Four Horsemen
-![](gottman.png)
+![](img/gottman.png)
 
 Empathy is the key to all of this. **And you only get it by giving it**.
 
