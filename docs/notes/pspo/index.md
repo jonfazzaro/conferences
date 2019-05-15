@@ -149,8 +149,8 @@ Scrum is a *framework* (not a *process*, not a *methodology*).
 
 ![](img/team.png)
 
-### The Product Owner should lead the Sprint Review.
 ![](img/review.png)
+*It sure looks like the Product Owner should lead the Sprint Review.*
 
 Why does the Product Owner care about the team's Definition of Done?   
 **Because it ensures that the increment the team produces is shippable.**
