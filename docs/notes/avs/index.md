@@ -241,3 +241,35 @@ with [Richard Cheng](https://www.scrumalliance.org/community/profile/rcheng2)
 Is it a full-time job? **Yes**.  
 Should a Scrum Master work across multiple teams? **No**. (Remember that **Focus** is a Scrum value)
 
+#### Filling more than one Scrum role 
+*Scrum Master*, *Product Owner*, and *Development Team member* are three different skillsets/mindsets.
+
+Can a Product Owner become a good Scrum Master? Yes, but only once they have unlearned the Command and Control mindset and embraced Servant Leadership.
+
+#### Is the Scrum Master doing a good job?
+
++ Is the team repeatedly making the same mistakes (production bugs, overplanned sprints, etc.)?
++ Is the team repeatedly encountering the same issues (external to the team)?
+
+Or, are they *improving*?
+
+#### Scrum Master's Progression for Solving a Problem
+
+1. Did it come up in the Retrospective?
+1. Did you discuss its impact?
+1. Did you identify the root cause(s)?
+1. Did you propose a solution?
+1. Did you try it?
+1. What were the results?
+1. What can you do next?
+
+### Q+A
+
+**On The Agile Coach/Scrum Master relationship**: In general, an Agile Coach should coach Scrum Masters on their work with teams, and partner with them on organizational issues. It is not recommended for Scrum Masters to report to an Agile Coach.
+
+**On Scrum Mastering while remote**: Using the right tool(s) have become much more important in remote work--keep it simple, though. Also, create and maintain good Working Agreements.
+
+**On breaking into the Scrum Master scene**: jump onto a team and get started!
+
+The Scrum Master doesn't stop their team from failing. Rather, they ensure that the team *learns* from their failures.
+
