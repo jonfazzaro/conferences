@@ -273,3 +273,71 @@ Or, are they *improving*?
 
 The Scrum Master doesn't stop their team from failing. Rather, they ensure that the team *learns* from their failures.
 
+## Are We Really a Team?
+
+with [Chris Li](https://www.linkedin.com/in/realchrisli)
+
+A team is a small number of people (<10) with:
+
++ complementary skills,
++ a common purpose,
++ a common working approach,
++ common performance goals, and
++ mutual accountability to one another
+
+### Complementary Skills
++ the right *mix* of skills 
++ technical skills, BUT ALSO skills in 
+	+ problem solving, 
+	+ decision making, and 
+	+ personal interaction
+
+### A Common Purpose
++ sets the tone for the team's work
++ a source of motivation
+
+### A Common Working Approach
++ developed together by the team, not imposed from outside (eg, by a manager)
+
+### Common Performance Goals
++ should be tied to purpose
++ behaviors and habits are more effective than target metrics
+
+### Mutual Accountability
++ promises the team members make to each other
++ rooted in commitment and trust (not blame!)
+
+> By promising to hold ourselves accountable to the team's goals, we each earn the right to express our own views about all aspects of the team's effort and to have our views receive a fair and constructive hearing.
+
+### [The Five Dysfunctions of a Team](https://bookshop.org/books/the-five-dysfunctions-of-a-team-a-leadership-fable-9780787960759/9780787960759)
+
+#### Be *vulnerable* around one another
+
+Without **Trust**, team members cannot have transparency and the effective communication that comes along with it. 
+
+(Not "trust" as in, "I trust you to get this done" or "I trust you to do a good job". If you trust someone, you can be *vulnerable* and *open* with them.)
+
+#### Passionately debate the *important* stuff
+
+Without **Conflict** (AKA *Creative Tension*), there can be no unfiltered passionate debate. **Without Conflict, people's best ideas are not available to the team**.
+
+#### Make decisions with *clarity* and *confidence*
+
+Without **Commitment**, the team will delay making decisions and taking action. 
+
+#### Call each other out *when it's needed*
+
+Without **Accountability**, resentment will grow within the team, and their leader/manager will become overburdened with babysitting duties.
+
+#### Focus on winning *as a team*
+
+**A team succeeds and fails together**.  
+"I got *my* stories done" == "The hole is on *your* side of the boat"
+
+### Q+A
+
+Imagine bringing a new person onto your team. If that person asked you about your team's purpose (or workflow, or performance goals, etc.), how would you answer? How would your teammates answer? Do this thought experiment *before* you actually have a new team member to onboard.
+
+"Human APIs" between teams
+
+When someone behaves badly, and their colleagues say "oh, that's just how they are", *that's a smell*. 
