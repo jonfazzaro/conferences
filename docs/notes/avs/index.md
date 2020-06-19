@@ -521,3 +521,17 @@ If someone is distracted during the meeting (looking at their phone, typing, etc
 (the Aikido move): "Tell me more about your experience with ____."
 
 Expect to spend about 2x of the meeting time to prepare for it (if it's not a meeting you've held before).
+
+## Use Agile on Yourself
+
+with [Lyssa Adkins](https://twitter.com/lyssaadkins)
+
+### Personal Agility
+
+1. What really matters? (up to 4 things)
+1. What did I do last week?
+1. What *could* I do this week?
+1. What is *important* or *urgent*?
+1. What do I *want* to get done?
+1. Who can help?
+
