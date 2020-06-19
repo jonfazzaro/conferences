@@ -424,3 +424,100 @@ For example,
 &mdash; [Liz Keogh](https://lizkeogh.com/2014/07/29/using-bdd-as-a-sensemaking-technique/)
 
 (Can we use this to refine a product backlog?)
+
+## Designing Great (Virtual) Meetings
+
+with [Paul Tevis](https://twitter.com/vigemus)
+
+If you want to understand an organization's leadership, strategy, and culture, *sit in on their meetings*.
+
+### Meeting Design
+
++ do simple things well
++ pay attention to the signal to noise ratio
+
+1. Provide a clear purpose/desired outcome for the meeting up front
+1. Make the meeting's structure and engagement obvious
+1. Support participants' energy and attention
+
+#### Purpose
+
+A meeting's purpose should be a **verb phrase** (eg, "generate ideas for...", "share perspectives on...", "scaffold the code for...").
+
+Repeat the purpose early and often throughout the meeting.
+
+Share it in a slide or other visual.
+
+Put it in the chat.
+
+(In general, use the meetings' chat as a narration of the meeting.)
+
+**Work outcomes**: decisions, lists, etc.
+**Human outcomes**: awareness, understanding, persuasion, buy-in, etc.
+
+#### Structure and Engagement
+
+**Match the meeting's structure and engagement to its purpose!** 
+
+For example, **idea generation** should probably involve some silent brainwriting (and probably shouldn't look like a mob programming session).
+
+And a **decision-making** meeting would 
+
+1. have participants form groups to analyze and plan
+1. have groups present their findings
+1. poll the room to converge on a direction
+
+**Make the meeting's structure and engagement obvious.**  
+*Anyone in the room should be able to stop the meeting* (or prevent it from starting) if they do not understand its purpose or how they should participate.
+
+Upgrade: Provide material that explains these clearly (not just verbally).
+
+Design for the engagement that you need.
+
+Use Google Slides (or PowerPoint) interactively! Have some slides that participants can write on/add their ideas.
+
+#### Keep it Simple
+
+Watch for resistance from complicated setup or tools  
+Question your favorite tools--are they the right fit for the meeting?  
+Use a non-technical solution if you can (eg, showing a fist-of-five rather than using a polling app)  
+
+### Breaks
+
+Take this seriously--people's attention is fragile and expensive.
+
+For every hour of meeting, and *average* of 15 minutes of breaktime. (10 minutes for in-person meetings--Zoom fatigue is real!)
+
+No break should be shorter than 10 minutes.  
+Use a visible timer.  
+Restart firmly on time.  
+
+**Upgrade your breaks**:  
++ Ahead of time, poll attendees for their favorite songs and make a playlist of them. Play the playlist during breaks.  
++ Share a page from a coloring book, and have the attendees color it using Zoom's annotation tools.
+
+Check in on attendees' energy levels often, maybe using a poll to eliminate social pressure.
+
+### Q+A
+
+**Senior leaders sometimes hijack meetings**. It's going to happen. Try to get some intel ahead of time on who is likely to do this, and learn about their goals. Try to get their buy-in, so they don't hijack.
+
+**Facilitation** is done from a posture of invitation, not control. Improv skills come in very handy here.
+
+To make chat-based input more safe, have people 
+
+1. type their responses,
+1. show their hands until everyone is done typing, 
+1. then hit Enter together
+
+If anonymity is important, have them set their Zoom name to blank before using chat.
+
+Find out what is making the group unsafe, and remove it. Have leaders give their input last. **Don't make it too safe, though**--feeling *some* vulnerability when meeting is a creative sweet spot.
+
+If someone is distracted during the meeting (looking at their phone, typing, etc.), invite them to leave as needed. No one should be captive to a meeting when their attention needs to be elsewhere.
+
+**Use Resistance**  
+(from a leader/authority): "How do you know ____ works?"  
+(the Aikido move): "Tell me more about your experience with ____."
+
+Expect to spend about 2x of the meeting time to prepare for it (if it's not a meeting you've held before).
