@@ -341,3 +341,86 @@ Imagine bringing a new person onto your team. If that person asked you about you
 "Human APIs" between teams
 
 When someone behaves badly, and their colleagues say "oh, that's just how they are", *that's a smell*. 
+
+## How Limits Empower Your Agility
+
+with [Diana Larsen](https://twitter.com/DianaOfPortland)
+
+Bob Martin has shown how programming has advanced over decades thanks to increasingly *stricter* limits in programming languages. Structured programming, OOP, and FP each introduced constraints that allowed programmers to focus on adding capability rather than on mitigating errors.
+
+Larsen's premise here is that the same principle, that constraints enhance capability, applies to your team's agility as well.
+
+Did you know? The term "Knowledge Work" was coined by Peter Drucker.
+
+### The [Agile Fluency](https://agilefluency.org) model
+
+**Fluency = unconscious competence.**   
+The skill/attribute comes naturally, rather than as the result of applied effort. This is the result of consistent practice!
+
+**Pre-agile**: Command and control, work (as tasks) is assigned to workers  by managers. Decisions come from the top-down.
+
+**Focusing**: The team thinks and plans in terms of the benefits their sponsors, customers, and users will see from their software. Scrum, non-technical XP
+
+**Delivering**: The team can release their latest work, at minimal risk and cost, whenever the business desires. DevOps, CI/CD, XP, Kanban
+
+**Optimizing**: The team understands what their market wants, what your business needs, and how to meet those needs. 
+
+> One of the biggest challenges in enabling Optimizing fluency is giving the team true control over its product direction. The distinction between an Optimizing team and a Delivering team is that, within the constraints of its charter, the Optimizing team makes its own decisions about what to fund and where to focus their efforts. Managers need to delegate this power to teams, which is often a difficult change for organizations.
+
+This stage is particularly disruptive to traditional organizations. It often requires reorganization and the political will to make it happen. Titles, promotional paths, etc. get shaken up. 
+
+Leaders tend to like it; middle managers tend to fear it.
+
+**Strengthening**: The team understands its role in the larger organizational system and actively works to make that system more successful. The future of agile. (Sometimes marked by cutting-edge techniques like *Team Self-selection* and *Open Space strategy meetings*)
+
+#### Each of these zones adds limitations.
+
+For example,
+
++ Product Backlog size
++ User Story size
++ Work in progress
++ Working done individually
++ Reteaming
++ Decision-making by managers
++ Functional departments/silos
+
+...are all limited in an Agile environment.
+
+#### When undergoing an Agile Transformation
+
+**LIMIT** your organization's focus to improving one of these zones at a time.
+
+**Think of each new limit as a tradeoff.**  
+"We're giving up ____ for ____."
+
++ WIP for Throughput
++ Feature count for quality
++ Control for resilience
++ Certainty for innovation
+
+> When you argue with reality, you lose, but only 100% of the time.
+
+[Byron Katie](https://www.goodreads.com/quotes/132449-when-you-srgue-with-reality-you-lose-but-only-100)
+
+**Understand the organization's reality and its limitations** when choosing the level of fluency to target.
+
+**Don't impose change from the outside**. By involving people in the creation of an improvement plan, you create buy-in and motivation to carry it through.
+
+### Q+A
+
+#### Cynefin
+
+> **Simple / Obvious**: Problems are easy to solve and have one best solution. You can categorise and say, “Oh, it’s one of those problems.”
+> 
+> **Complicated**: Often made up of parts which add together predictably. Requires expertise to solve. You can **analyse** this problem if you have the expertise.
+> 
+> **Complex**: Properties emerge as a result of the interactions of the parts. Cause and effect are only correlated in retrospect. Problems must be approached by experiment, or **probe**. Both outcomes and practices emerge.
+> 
+> **Chaos**: Resolves itself quickly, and not always in your favour. Often disastrous and to be avoided, but can also be entered deliberately (a shallow dive into chaos) to help generate innovation. Problems need someone to act quickly. Throwing constraints around the problem can help move it into complexity. Practices which come from this space are novel.
+> 
+> **Disorder**: We don’t know which domain dominates, so we behave according to our preferred domain (think PMs demanding predictability even when we’re doing something very new that we’ve never done before, or devs reinventing the wheel rather than getting an off-the-shelf library). Often leads to chaos when the domain resolves (I know least about this domain, but it’s way more important than I originally thought it was!)
+
+&mdash; [Liz Keogh](https://lizkeogh.com/2014/07/29/using-bdd-as-a-sensemaking-technique/)
+
+(Can we use this to refine a product backlog?)
