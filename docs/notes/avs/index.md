@@ -11,9 +11,9 @@ with [Jim Benson](https://twitter.com/ourfounder)
 
 Organize your options (your backlog) using the Cynefin framework (obvious, complex, complicated, or chaotic).
 
-Chaotic: FIRE! Put it out, then analyze immediately 
-Obvious: delegate or automate as much as possible
-Complex/Complicated: spend your attention here. Pair, mob, teach, and learn through the work
+**Chaotic**: FIRE! Put it out, then analyze immediately   
+**Obvious**: delegate or automate as much as possible  
+**Complex/Complicated**: spend your attention here. Pair, mob, teach, and learn through the work
 
 ### Improvement 
 
@@ -26,7 +26,7 @@ Place items that you learned something from in **Retrospect**, to reflect on lat
 Place drastic (chaotic/FIRE) items into **We Need To Talk** after **Done**. Don't wait to retrospect on these, do it as soon as things are stable. This is _continuous improvement_.
 
 
-## High-Performance Teams: Core Protocols for Psychological Safety and EI
+## High-Performance Teams: Core Protocols for Psychological Safety and Emotional Intelligence
 
 with [Richard Kasperowski](https://twitter.com/rkasper)
 
@@ -90,7 +90,7 @@ Try a Check-in as a "fourth question" in your next Daily Scrum.
 
 **Protocols**: Self-awareness ([Check-in](https://thecoreprotocols.org/protocols/checkin.html), [Ask for help](https://thecoreprotocols.org/protocols/askforhelp.html), [Personal Alignment](https://thecoreprotocols.org/protocols/personalalignment.html)) plus [Intention Check](https://thecoreprotocols.org/protocols/intentioncheck.html) and [Investigate](https://thecoreprotocols.org/protocols/investigate.html).
 
-**Intention Check**: "When you did/said ____, what was your intention?" -> "I'm curious--will you tell me more about ___?"
+**Intention Check**: "When you did/said ____, what was your intention?" -> "I'm curious&mdash;will you tell me more about ___?"
 
 It may make people uncomfortable to say, but an HPT is founded on LOVE. Connection is a big part of that.
 
@@ -106,7 +106,7 @@ The flat hand indicates that you trust the team's collective judgement either wa
 
 "A HPT navigates conflict."
 
-One of the protocols is a [Protocol Check](https://thecoreprotocols.org/protocols/protocolcheck.html)--error handling is baked in.
+One of the protocols is a [Protocol Check](https://thecoreprotocols.org/protocols/protocolcheck.html)&mdash;error handling is baked in.
 
 ### Continuous Teaming
 
@@ -196,7 +196,7 @@ with [Howard Sublett](https://twitter.com/howardsublett)
 + declare what you don't know
 + push decision-making to the edges/front lines of your organization, so your people are inspired to explore!
 
-## A Deeper Dive into the ScrumMaster Role
+## A Deeper Dive into the Scrum Master Role
 
 with [Richard Cheng](https://www.scrumalliance.org/community/profile/rcheng2)
 
@@ -267,7 +267,7 @@ Or, are they *improving*?
 
 **On The Agile Coach/Scrum Master relationship**: In general, an Agile Coach should coach Scrum Masters on their work with teams, and partner with them on organizational issues. It is not recommended for Scrum Masters to report to an Agile Coach.
 
-**On Scrum Mastering while remote**: Using the right tool(s) have become much more important in remote work--keep it simple, though. Also, create and maintain good Working Agreements.
+**On Scrum Mastering while remote**: Using the right tool(s) have become much more important in remote work&mdash;keep it simple, though. Also, create and maintain good Working Agreements.
 
 **On breaking into the Scrum Master scene**: jump onto a team and get started!
 
@@ -479,14 +479,14 @@ Use Google Slides (or PowerPoint) interactively! Have some slides that participa
 #### Keep it Simple
 
 Watch for resistance from complicated setup or tools  
-Question your favorite tools--are they the right fit for the meeting?  
+Question your favorite tools&mdash;are they the right fit for the meeting?  
 Use a non-technical solution if you can (eg, showing a fist-of-five rather than using a polling app)  
 
 ### Breaks
 
-Take this seriously--people's attention is fragile and expensive.
+Take this seriously&mdash;people's attention is fragile and expensive.
 
-For every hour of meeting, and *average* of 15 minutes of breaktime. (10 minutes for in-person meetings--Zoom fatigue is real!)
+For every hour of meeting, and *average* of 15 minutes of breaktime. (10 minutes for in-person meetings&mdash;Zoom fatigue is real!)
 
 No break should be shorter than 10 minutes.  
 Use a visible timer.  
@@ -512,7 +512,7 @@ To make chat-based input more safe, have people
 
 If anonymity is important, have them set their Zoom name to blank before using chat.
 
-Find out what is making the group unsafe, and remove it. Have leaders give their input last. **Don't make it too safe, though**--feeling *some* vulnerability when meeting is a creative sweet spot.
+Find out what is making the group unsafe, and remove it. Have leaders give their input last. **Don't make it too safe, though**&mdash;feeling *some* vulnerability when meeting is a creative sweet spot.
 
 If someone is distracted during the meeting (looking at their phone, typing, etc.), invite them to leave as needed. No one should be captive to a meeting when their attention needs to be elsewhere.
 
