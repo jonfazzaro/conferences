@@ -535,3 +535,54 @@ with [Lyssa Adkins](https://twitter.com/lyssaadkins)
 1. What do I *want* to get done?
 1. Who can help?
 
+## The magic of looking back; the perseverance to move forward
+
+with [Kim Brainard](https://twitter.com/agilebrain1)
+
+Many organizations say they value "innovation", but their culture breeds anything but. (Fear of rejection, lack of ownership, etc.)
+
++ 70% of initiatives fail
++ People don't know who's responsible for a given initiative
+
+What suffers more breakdown in your organization?
+
++ Products: 5%  
++ Processes: 32%  
++ People: 62%  
+
+### Never fear rejection or acceptance
+
+Try the next right thing. Don't worry about whether people like it (or whether they like you).
+
+### The J-Curve 
+(also known as the Satir Change Curve and the "Project Valley of Death")
+
+![](img/jcurve.png)
+
+Agile is a mindset, not a methodology.  
+
+There is no repeatable method for learning and discovering.
+
+Don't just *think* outside the box&mdash;*step* outside the box.
+
+### Meetings
+
+#### Time  
++ 3 (non-Scrum) meetings per day, at most.
++ 45 minutes (not a whole hour)
++ Start promptly at the top of the hour.
+
+#### Choose your presence 
++ listen more than you talk
++ no soapboxing
++ STOP taking minutes! (just write down important takeaways)
++ Leaders set the tone by their reactions to events (eg, fires, failures)
++ Empower people, stop backseat driving, and let go
+
+**When pressures increase, honest communication stops**.
+
+### Learning
+
+Leaders and staff must spend time learning together.
+
+If there are no *relationships*, there is no culture.
