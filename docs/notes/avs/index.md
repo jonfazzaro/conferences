@@ -352,7 +352,7 @@ Larsen's premise here is that the same principle, that constraints enhance capab
 
 Did you know? The term "Knowledge Work" was coined by Peter Drucker.
 
-### The [Agile Fluency](https://agilefluency.org) model
+### The [Agile Fluency](https://www.agilefluency.org) model
 
 **Fluency = unconscious competence.**   
 The skill/attribute comes naturally, rather than as the result of applied effort. This is the result of consistent practice!
