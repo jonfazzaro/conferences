@@ -97,7 +97,9 @@ with [Linda Rising](https://twitter.com/RisingLinda)
 * Hear the other person out, be curious and respectful
 * Stay in contact
 
-**Never talk to elephants of high-ranking people in groups**. Meet 1/1, "whisper in the general's ear". This doesn't just apply to people in positional authority (executives, managers), but also to those with power or influence relationally as well.
+![Never talk to elephants of high-ranking people in groups. Meet 1/1, "whisper in the general's ear". ](img/whisper.jpeg)
+
+This doesn't just apply to people in positional authority (executives, managers), but also to those with power or influence relationally as well.
 
 ### Resources
 
@@ -141,6 +143,8 @@ with [Zach Bonaker](https://twitter.com/zachbonaker)
 ### "Make work visible at all levels."
 
 A powerful, simple rule.
+
+![](img/simple.jpeg)
 
 ## Archimedes Lever: Utilizing Hidden Costs as Change Lever and Improvement Metric
 
