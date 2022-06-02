@@ -1,3 +1,5 @@
+# Contents
+
 ## 2022
 
 [Agile & Beyond](notes/aab/2022/index.md) 
