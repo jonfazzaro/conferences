@@ -1,7 +1,3 @@
-# Fazzaro's Notes
-
-My notes from conference sessions I have attended.
-
 ## 2022
 
 [Agile & Beyond](notes/aab/2022/index.md) 
