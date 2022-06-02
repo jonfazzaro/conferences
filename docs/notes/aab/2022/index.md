@@ -210,5 +210,5 @@ Even if they were to double the speed of their dev work, that would only produce
     
 "Every bit of work you have in progress is another reason for someone to interrupt you."
 
-**Ensemble programming** (including pairing) is inherently more efficient because it replaces handoffs and the considerable lead time between touches with real-time interactions).
+**Ensemble programming** (including pairing) is inherently more efficient because it replaces handoffs and the considerable lead time between touches with real-time interactions.
 
