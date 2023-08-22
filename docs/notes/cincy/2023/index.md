@@ -42,3 +42,15 @@ We tend to focus on team coaching first, but that may not be the right place to 
 
 Scaling builds a coaching competency, not just a team-level coaching engagement for a team that may only end up disbanded.
 
+## Quantifying Technical Debt
+
+with [Nick Fahrig](https://www.linkedin.com/in/nick-fahrig)
+
+quadrantChart
+    title Types of technical debt
+    x-axis Reckless --> Prudent
+    y-axis Accidental --> Conscious
+    quadrant-1 Leverage
+    quadrant-2 Don't care
+    quadrant-3 Don't know
+    quadrant-4 Didn't mean to
