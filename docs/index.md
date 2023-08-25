@@ -2,7 +2,10 @@
 
 ## 2023
 
-[Agile & Beyond](notes/aab/2023/index.md) 
+[QA or the Highway](notes/qoth/2023/index.md)  
+[Agile & Beyond](notes/aab/2023/index.md)  
+[Cincy Deliver](notes/cincy/2023/index.md)  
+[Indy.Code()](notes/indy.code/2023/index.md)  
 
 ## 2022
 
