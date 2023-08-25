@@ -39,11 +39,11 @@ with [Eric Potter](https://www.linkedin.com/in/ericbpotter)
 
 > Ideas are just networks of other ideas.
 
---Steven Johnson, [How We Got to Now](https://www.goodreads.com/book/show/20893477-how-we-got-to-now)
+--Steven Johnson, 📘 [How We Got to Now](https://www.goodreads.com/book/show/20893477-how-we-got-to-now)
 
 New gen of note-taking apps (Obsidian, Notion, LogSeq, etc) help their users exploit this idea.
 
-"Exocortex" ([Pragmatic Thinking & Learning](https://pragprog.com/titles/ahptl/pragmatic-thinking-and-learning/))
+"Exocortex" (📘 [Pragmatic Thinking & Learning](https://pragprog.com/titles/ahptl/pragmatic-thinking-and-learning/))
 
 Start with the *worst possible* idea.
 
@@ -53,13 +53,13 @@ Be intellectually humble AND confident in your ability.
 
 with [Robert Herbig](https://www.linkedin.com/in/robertherbig)
 
-### "I don't know" is a powerful statement.
+"I don't know" is a powerful statement.
 
 Plan and communicate in terms of **bets**. Every bet has a cost, a likelihood of success, and an outcome.
 
 There is always a tradeoff between [precision vs. accuracy](https://xkcd.com/2696/).
 
-[Thinking in Bets](https://www.goodreads.com/book/show/35957157-thinking-in-bets) by Annie Duke
+📘 [Thinking in Bets](https://www.goodreads.com/book/show/35957157-thinking-in-bets) by Annie Duke
 
 **"Resulting"**. A poker term of art for getting a good outcome from a poor decision (or vice versa). The ends don't justify the means!
 
@@ -67,7 +67,7 @@ There is always a tradeoff between [precision vs. accuracy](https://xkcd.com/269
 
 **Belief is involuntary comprehension**--we buy it before we try it. "Smart" people are often just better at rationalizing their existing beliefs.
 
-[The Believing Brain](https://www.goodreads.com/book/show/9754534-the-believing-brain) by Michael Shermer
+📘 [The Believing Brain](https://www.goodreads.com/book/show/9754534-the-believing-brain) by Michael Shermer
 
 "Truthseeking" - purposefully updating your beliefs. 
 

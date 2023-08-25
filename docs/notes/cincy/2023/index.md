@@ -84,7 +84,7 @@ with [Jay Tower](https://www.linkedin.com/in/jtower)
 
 with [Ben Friedberg](https://www.linkedin.com/in/ben-friedberg-7ab1497)
 
-[Simple Sabotage Manual](https://en.wikisource.org/wiki/Simple_Sabotage_Field_Manual) (1944, [OSS](https://en.wikipedia.org/wiki/Office_of_Strategic_Services))
+📘 [Simple Sabotage Manual](https://en.wikisource.org/wiki/Simple_Sabotage_Field_Manual) (1944, [OSS](https://en.wikipedia.org/wiki/Office_of_Strategic_Services))
 
 > We write for our future selves!
 
