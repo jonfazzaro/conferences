@@ -2,6 +2,8 @@
 
 ## 2023
 
+[AgileDC](notes/agiledc/2023/index.md)  
+[DevOpsDays Indianapolis](notes/devopsdays/indianapolis/2023/index.md)  
 [QA or the Highway](notes/qoth/2023/index.md)  
 [Agile & Beyond](notes/aab/2023/index.md)  
 [Cincy Deliver](notes/cincy/2023/index.md)  
