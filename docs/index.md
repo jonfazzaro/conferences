@@ -1,5 +1,9 @@
 # Contents
 
+## 2024
+
+[Agile & Beyond](notes/aab/2024/index.md)  
+
 ## 2023
 
 [AgileDC](notes/agiledc/2023/index.md)  
