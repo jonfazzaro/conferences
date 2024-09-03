@@ -3,9 +3,9 @@
 *July 28th, 2023*  
 Cincinnati, OH
 
-with [Art Lashchonau](https://www.linkedin.com/in/lashchonau/) and [Brad Nelson](https://www.linkedin.com/today/author/bradgile)
-
 ### Agile Coaching
+
+with [Art Lashchonau](https://www.linkedin.com/in/lashchonau/) and [Brad Nelson](https://www.linkedin.com/today/author/bradgile)
 
 + Requires the emotional intelligence to influence without authority
 + Professional coaching only accounts for about 5% of the work
