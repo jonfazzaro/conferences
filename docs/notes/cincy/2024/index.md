@@ -7,38 +7,35 @@ Cincinnati, OH
 
 with [J. Tower](https://www.linkedin.com/in/jtower/)
 
-![ai-tree.png](img/ai-tree.png)
-
-![ai-funnel.png](img/ai-funnel.png)
-
-AI right now is like the Internet in the early 1990s.
-
-### AI with .NET
-+ Azure AI services (fka Cognitive Services) provide AIaaS, MLaaS
-+ In code, ML.NET and Custom Copilots
-+ Azure and OpenAI APIs do not use your data for training, and you can opt out of data retention
-
-+ An LLM must be run online, whereas a "reasonably-sized" LM can be run locally.
-
-### ML.NET
-+ runs without a live connection
-+ use to train a custom model
-+ [J on ML.NET](https://www.youtube.com/watch?v=dWCqryuCJS8) on the Blue Blazes podcast
-
-### Visual Studio ML Builder
-+ generates model as a .zip
-+ `MlContext.Model.Load(zip)`
-
-+ Semantic Kernel is the corelib of MS copilots
-+ Cognitive Toolkit is for creating custom Neural Networks (for more power and control)
-
 ## Better Remote Teamwork through Emotional Intelligence
 
 with [Ben Friedberg](https://www.linkedin.com/in/ben-friedberg/)
 
 ## Creating Your First AI-Based Product
 
-with [Rich Theil](https://www.linkedin.com/in/richtheil/)
+with [Rich Theil](https://www.linkedin.com/in/richtheil/), founder of productforge.ai
+
+Don't get distracted by the shiny--is the product impressive, or just the AI behind it?
+
+Do things that don't scale: manually prompt GPT and offer the results to your customer for feedback.
+
+AI is like a 4yo who knows everything.
+
+Groq (not Grok from X) is fast, but doesn't scale
+
+Cost--pay per tokens in/out
+
+OpenAI's variable Temperature: 0-2.0. 
+
+2.0 is maximum creativity/chaos/variability  
+1.0 is normal  
+0.0 is deterministic
+
+When retrieving data, dial the Temperature way down. OR store the data separately and inject into the response.
+
+Embeddings are vectorized data, a mathematical representation of the *meaning* of a word/sentence. Digitized semantics of analog language.
+
+In about 5 years, most of us will be directing multiple agents doing work for us, and we'll need to discern whether the results are correct. (like reviewing PRs from an off-shore development team, and probably just as frustrating)
 
 ## Returning to Tech... Twice
 
