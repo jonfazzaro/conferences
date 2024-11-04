@@ -68,7 +68,7 @@ with [Doc Norton](https://twitter.com/docondev)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Your architecture is in your code [not in a model, diagram, or concept].” <a href="https://twitter.com/DocOnDev?ref_src=twsrc%5Etfw">@DocOnDev</a> <a href="https://twitter.com/hashtag/AgileAndBeyond?src=hash&amp;ref_src=twsrc%5Etfw">#AgileAndBeyond</a> <a href="https://twitter.com/hashtag/aab22?src=hash&amp;ref_src=twsrc%5Etfw">#aab22</a></p>&mdash; Fazzaro (@jonfazzaro) <a href="https://twitter.com/jonfazzaro/status/1529499987490574336?ref_src=twsrc%5Etfw">May 25, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Day 2 Keynote: How to Talk to the Elephant
+## Day 2 Keynote: How to Talk toq the Elephant
 with [Linda Rising](https://twitter.com/RisingLinda)
 
 [*Thinking Fast & Slow*](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) by Daniel Kahneman is "the most agile book in recent time".
