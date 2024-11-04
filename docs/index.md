@@ -2,6 +2,8 @@
 
 ## 2024
 
+[AgileDC](notes/agiledc/2024/index.md)  
+[Cincy Deliver](notes/cincy/2044/index.md)  
 [Agile & Beyond](notes/aab/2024/index.md)  
 
 ## 2023
