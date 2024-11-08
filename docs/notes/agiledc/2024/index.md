@@ -44,3 +44,41 @@ During times of change, people lose their identity and their ability to predict 
 
 What's more important: changing their mind, or your relationship with them?
 
+## Agile x AI: The Paranoid Executive’s Cheatsheet
+
+with [Sanjiv Augustine](https://www.linkedin.com/in/sanjivaugustine/)
+
+> Only the paranoid survive.  
+
+&mdash; Andy Grove, Intel
+
+### Asymmetric impact
+Kasparov vs. Deep Blue, 1997  
+Deepmind (Suleyman, Hassabis, Legg) - AlphaGo, 2016
+
+Strategic inflection points
+
+> Agility is the ability to both **create** and **respond** to change in order to profit in a turbulent business environment.
+
+&mdash; Jim Highsmith
+
+> Build the fastest-iterating company the world has ever seen.
+
+&mdash; [Sam Altman](https://www.youtube.com/watch?v=1onGGnpll70)
+
+Accelerate the velocity of *decision-making*, not just that of *production*.
+
+**CARLA** (**C**ompliance, **A**uditing, **R**isk management, **L**egal, **A**rchitecture): Bring them in early!
+
+### NVidia's AI red team assessment framework
+
+![NVidia's AI red team assessment framework](https://developer-blogs.nvidia.com/wp-content/uploads/2023/06/ai-red-team-assessment-framework.png)
+
+## AI-Assisted Agile Development using GitHub Copilot and Other AI Developer Tools
+
+with [Jeffery Payne](https://www.linkedin.com/in/jeffery-payne-21373/)
+
+## Domain-Driven Design Meets AI: Crafting Solutions
+
+with [Rob Brown](https://www.linkedin.com/in/robbrown/) and [Darren Hoevel](https://www.linkedin.com/in/darren-hoevel-3a3a654/)
+
