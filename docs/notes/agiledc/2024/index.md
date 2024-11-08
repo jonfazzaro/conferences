@@ -74,11 +74,12 @@ Accelerate the velocity of *decision-making*, not just that of *production*.
 
 ![NVidia's AI red team assessment framework](https://developer-blogs.nvidia.com/wp-content/uploads/2023/06/ai-red-team-assessment-framework.png)
 
-## AI-Assisted Agile Development using GitHub Copilot and Other AI Developer Tools
-
-with [Jeffery Payne](https://www.linkedin.com/in/jeffery-payne-21373/)
-
 ## Domain-Driven Design Meets AI: Crafting Solutions
 
 with [Rob Brown](https://www.linkedin.com/in/robbrown/) and [Darren Hoevel](https://www.linkedin.com/in/darren-hoevel-3a3a654/)
 
+When you have a new team working on old code, begin (toward DDD) by finding ubiquitous domain language, and renaming things that don't align to it.
+
+**A TPM role is a smell**: If you need a Technical Product Manager as well as a Product Manager, you have not done enough to build your org's Product Management capability.
+
+A compelling demo of prompting [Qlerify](https://www.qlerify.com) to design a system to automate [USCIS's I-590 form](https://www.uscis.gov/sites/default/files/document/forms/i-590.pdf).
