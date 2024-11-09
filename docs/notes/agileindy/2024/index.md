@@ -68,6 +68,34 @@ AKA a "painted door"
 
 with [Rob Herbig](https://linkedin.com/in/RobertHerbig) and [Jordan Thayer](https://www.linkedin.com/in/jordan-seabass-thayer/)
 
+### Our intuitions about AI are wrong.
+
+#### AI is generally capable of doing human things 
+
+"I can pick up this glass of water without breaking it, why can't the robot *simply do the same*?"
+
+#### Automation is ALL or NOTHING 
+
+It's not valuable or feasible to automate an entire stream of work/value, only parts of it. Automation is a sliding scale.
+
+#### Models are impartial
+
+For example, in training a model to distinguish between a husky and a wolf, the model learned instead to identify the background of the photo&mdash;wolves were typically in front of woods and snow, huskies in backyards or houses.
+
+There is bias in our data.
+
+#### AI means human-like intelligence
+
+In a 1997 chess match with Kasparov, Deepblue made a defensive move while it was ahead. This was so counterintuitive it threw Kasparov off his game and he lost. 
+
+*Why would it make that move? What does it know that I'm not seeing?*
+
+Deepblue's programmers identified the move as a bug.
+
+In a 2016 Go (a more challenging game for AI) game, DeepMind made an unexpected move that similarly threw Lee Sedol. After he lost, he and other Go masters changed how they played as a result.
+
+**This whole thing is a cat and mouse game**. Later, an amateur player beat DeepMind... by using an AI-generated strategy.
+
 ## Closing Keynote
 
 with [Pete Anderson](https://www.linkedin.com/in/pete-anderson-product/) and [Josh VandeWiele](https://www.linkedin.com/in/joshvande/)
