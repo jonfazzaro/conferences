@@ -2,6 +2,7 @@
 
 ## 2024
 
+[AgileIndy](notes/agileindy/2024/index.md)   
 [AgileDC](notes/agiledc/2024/index.md)  
 [Cincy Deliver](notes/cincy/2044/index.md)  
 [Agile & Beyond](notes/aab/2024/index.md)  
