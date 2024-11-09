@@ -64,3 +64,11 @@ AKA a "painted door"
 
 (Does this indicate *demand*, or merely *curiosity*?)
 
+## Avoiding False Starts with Artificial Intelligence
+
+with [Rob Herbig](https://linkedin.com/in/RobertHerbig) and [Jordan Thayer](https://www.linkedin.com/in/jordan-seabass-thayer/)
+
+## Closing Keynote
+
+with [Pete Anderson](https://www.linkedin.com/in/pete-anderson-product/) and [Josh VandeWiele](https://www.linkedin.com/in/joshvande/)
+
