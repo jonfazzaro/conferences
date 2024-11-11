@@ -100,3 +100,13 @@ In a 2016 Go (a more challenging game for AI) game, DeepMind made an unexpected 
 
 with [Pete Anderson](https://www.linkedin.com/in/pete-anderson-product/) and [Josh VandeWiele](https://www.linkedin.com/in/joshvande/)
 
+Product Culture has humility at its center: "I'm probably wrong"
+
+A product is the thing that we create that adds value for our customers. (co-created definition w/David Hussman)
+
+"We are environmentalists--transforming the environment [of work] is more impactful than just focusing on teams."
+
+The pilot/tiger team approach is better for grassroots transformation efforts. **For large-scale transformations, focus on removing all the stuff that stops teams from shipping**.
+
+As far as consulting business models, embedded coaching is *out*, and selling a retainer to be an advisor to leaders and coaches is *in*.
+
