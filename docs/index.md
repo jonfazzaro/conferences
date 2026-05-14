@@ -1,5 +1,9 @@
 # Contents
 
+## 2026
+
+[Merge](notes/merge/2026/index.md)
+
 ## 2024
 
 [AgileIndy](notes/agileindy/2024/index.md)   
