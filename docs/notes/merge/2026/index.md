@@ -70,3 +70,14 @@ Splashing in the shallow end doesn't get us anywhere. Learning happens when you 
 
 AI-built vs. AI-powered (don't make the AI do the thing, make the AI make the thing that does the thing (script, code, etc.)
 
+## AI-Assisted Architecture the Simplicity-First Way
+
+by [Chris "Woody" Woodruff](https://www.linkedin.com/in/chriswoodruff/)
+
+Design it so a tired engineer can debug it at 2AM.
+
+AI is an **amplifier**, not a simplifier.
+
+Build half of what you think you need, treat the rest as a hypothesis.
+
+The pricing model of $20/month for all-you-can-eat tokens will be gone by Christmas.
