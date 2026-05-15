@@ -33,7 +33,7 @@ Good **Directing** involves:
 by [Coe Lacy](https://www.linkedin.com/in/coe-lacy/)
 
 ```
-\------/  Organizing and leading work
+\------/  Organizing and leading work (focus your energy here now)
  \----/
   \--/  
    \/     Tactical work <— (delegate this to AI)
