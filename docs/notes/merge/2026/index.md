@@ -51,8 +51,6 @@ We're *sad*. But being sad about technology obsoleting the craft of artisans is 
 
 If you don't participate, someone else (with less integrity) will. If you opt out of embracing AI, it just means the discourse has one less person with real skills and scruples.
 
-- [ ] Granola - game changing or creepy?
-
 Say goodbye to 
 
 + meaningless cognitive load
