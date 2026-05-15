@@ -66,7 +66,7 @@ Rethink the norms: we don't raise the individual plants, we tend the garden.
 
 Splashing in the shallow end doesn't get us anywhere. Learning happens when you jump into the deep end.
 
-AI-built vs. AI-powered (don't make the AI do the thing, make the AI make the thing that does the thing (script, code, etc.)
+AI-built vs. AI-powered (don't make the AI do the thing, make the AI make the thing that does the thing (script, code, etc.))
 
 ## AI-Assisted Architecture the Simplicity-First Way
 
