@@ -2,7 +2,7 @@
 
 ## 2026
 
-[Merge](notes/merge/2026/index.md)
+[Merge](notes/merge/2026/index.md)  
 [Cincy Deliver](notes/cincy/2026/index.md)
 
 ## 2024
